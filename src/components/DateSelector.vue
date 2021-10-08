@@ -54,7 +54,7 @@
 </template>
 
 <script>
-// import moment from 'moment'
+import moment from 'moment'
 
 // This component expects and emits all dates in YYYY-MM-DD format
 
